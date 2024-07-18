@@ -9,6 +9,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KoshiSIT/ADEjs"
+  },
+  "keywords": [
+    "COP",
+    "Context",
+    "Oriented",
+    "Programming",
+    "Aynchronous"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
