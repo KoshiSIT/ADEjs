@@ -23,10 +23,11 @@
     "Programming",
     "Aynchronous"
   ],
+  "type": "module",
   "author": "",
   "license": "ISC",
   "dependencies": {
     "contextjs": "^2.0.0",
-    "zone.js": "^0.14.7"
+    "zone.js": "^0.13.0"
   }
 }
