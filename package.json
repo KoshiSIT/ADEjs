@@ -1,6 +1,6 @@
 {
   "name": "adejs",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "",
   "main": "lib/contextZone.js",
   "directories": {
@@ -28,6 +28,6 @@
   "license": "ISC",
   "dependencies": {
     "contextjs": "^2.0.0",
-    "zone.js": "^0.13.0"
+    "zone.js": "^0.12.0"
   }
 }
