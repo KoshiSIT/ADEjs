@@ -28,6 +28,7 @@
   "license": "ISC",
   "dependencies": {
     "contextjs": "^2.0.0",
-    "zone.js": "^0.12.0"
+    "zone.js": "^0.12.0",
+    "react": "^17.0.2",
   }
 }
