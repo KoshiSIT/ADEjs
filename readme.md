@@ -27,7 +27,7 @@ L1.refineClass(Foo, {
   },
 });
 let foo = new Foo();
-withLayersZone(L1, () => {
+withLayersZone([L1], () => {
   foo.print(); // prints 'refined'
   setTimeout(() => {
     foo.print(); // prints 'refined'
